@@ -2,7 +2,7 @@ from Loops import Calculator
 
 
 class Childdemo(Calculator):
-    num2 = 200
+    num2 = 500
 
     def __init__(self):
         Calculator.__init__(self, 8, 10)
