@@ -1,0 +1,8 @@
+2020-06-20 15:55:21,725  :INFO  : Pytest.BaseClass  :This is for data load 0
+2020-06-20 15:55:21,726  :WARNING  : Pytest.BaseClass  :Seal
+2020-06-20 15:58:12,074  :INFO  : test_editProfile  :This is for data load 0
+2020-06-20 15:58:12,074  :WARNING  : test_editProfile  :Seal
+2020-06-20 16:00:54,790  :INFO  : test_editProfile  :This is for data load 0
+2020-06-20 16:00:54,790  :WARNING  : test_editProfile  :Seal
+2020-07-20 13:01:06,531  :INFO  : test_editProfile  :This is for data load 0
+2020-07-20 13:01:06,532  :WARNING  : test_editProfile  :Seal

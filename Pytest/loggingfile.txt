@@ -1,0 +1,11 @@
+2020-06-20 15:25:32,046  :DEBUG  : Pytest.test_Logging  :Debug statement is printed
+2020-06-20 15:25:32,048  :INFO  : Pytest.test_Logging  :Information for this test case is printed
+2020-06-20 15:25:32,048  :WARNING  : Pytest.test_Logging  :Warning message is printed. But test case execution continues
+2020-06-20 15:25:32,048  :ERROR  : Pytest.test_Logging  :Error occurred which is failing the test case
+2020-06-20 15:25:32,048  :CRITICAL  : Pytest.test_Logging  :Critical error is occurring
+2020-06-20 15:28:29,975  :ERROR  : Pytest.test_Logging  :Error occurred which is failing the test case
+2020-06-20 15:28:29,975  :CRITICAL  : Pytest.test_Logging  :Critical error is occurring
+2020-06-20 15:31:32,154  :ERROR  : Pytest.test_Logging  :Error occurred which is failing the test case
+2020-06-20 15:31:32,154  :CRITICAL  : Pytest.test_Logging  :Critical error is occurring
+2020-06-20 16:00:54,350  :ERROR  : Pytest.test_Logging  :Error occurred which is failing the test case
+2020-06-20 16:00:54,351  :CRITICAL  : Pytest.test_Logging  :Critical error is occurring
